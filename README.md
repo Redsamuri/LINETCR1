@@ -1,1 +1,1 @@
-# selfbot1
+# selfbot
